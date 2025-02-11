@@ -1,0 +1,22 @@
+dateModified: 1739291988
+email:
+  fromEmail: michellelclement@gmail.com
+  fromName: 'MC Craft Starter'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    80c045fd-91b3-4f76-93c4-a86149c6b9e9: 'MC Craft Starter' # MC Craft Starter
+    af1fa214-6d99-4fe7-b7ca-2ee4635a72fe: 'MC Craft Starter' # MC Craft Starter
+    e0f3c030-8e82-4b7f-83bc-3b60041eaaf5: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'MC Craft Starter'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
